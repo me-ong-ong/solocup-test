@@ -1,0 +1,1 @@
+# solocup-test
